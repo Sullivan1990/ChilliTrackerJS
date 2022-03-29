@@ -1,0 +1,25 @@
+{
+    "name": "chilli-tracker",
+    "version": "1.0.0",
+    "description": "A sample application for interacting with the ChilliTracker API",
+    "main": "index.js",
+    "scripts": {
+        "start": "http-server -c-1"
+    },
+    "keywords": [
+        "Chilli",
+        "progressive",
+        "web",
+        "app",
+        "example",
+        "sample"
+    ],
+    "author": "Shaun O'Sullivan",
+    "license": "ISC",
+    "devDependencies": {
+        "http-server": "^14.1.0"
+    },
+    "dependencies": {
+        "localforage": "^1.10.0"
+    }
+}
